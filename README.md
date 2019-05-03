@@ -9,7 +9,6 @@
   - [About The Authors](#about-the-authors)
   - [A Brief Introduction](#a-brief-introduction)
   - [Common Internet Folk](#common-internet-folk)
-    - [Let Me Explain Further](#let-me-explain-further)
   - [Business and Tech Geeks](#business-and-tech-geeks)
   - [Government Level Individuals](#government-level-individuals)
   - [Edward Snowden?](#edward-snowden)
@@ -19,7 +18,7 @@
 
 ## About The Authors
 
-**andrewkdinh**
+**andrewkdinh**  
 Hello. My name's Andrew. I am heavily invested in digital privacy, and actively do my best to keep my own information private, as well as spread the word. You might be wondering, why do I use my real name? Privacy comes in many different levels, based on how much you are willing to reveal to the world. I do have many linked accounts all with the username `andrewkdinh`, and this is everything I want the world to see. Yet, for everything else in my life, I intend to keep that private. I don't want Google or a 3-lettered government agency data-mining my information, using it to track my every move, and possibly correlating me with illegal actions simply based on metadata. I forked the original paper located [here](https://github.com/cryptoseb/CryptoPaper) to make edits myself, as the original repository did not seem to be active. I have edited it to be something everyone can use, as well as updated it to today's day and age. I hope you enjoy it.
 
 **CryptoSeb**  
@@ -59,7 +58,7 @@ As you move up from one category to the next, the information becomes more inten
 **Okay, So What About Anonymity?**  
 Privacy and security are very closely related and anonymity is just the distant uncle who always shows up the party in socks and sandals. Anonymity is the concept of not being identifiable as your true self online. It seems to get a really bad reputation because a lot of hackers and online criminals are referred to as being anonymous. But it is also a very positive thing. Like in cases where a teenager who is questioning their sexuality wants to conceal their online activities from their parents or school until they are ready to make that big coming out moment. Or for a police officer doing undercover work to takedown a child pornography ring. Countless individuals around the globe use anonymity in some form or another every single day. As a final note, I think it is also important to understand that anonymity isn’t always just important for people as individuals but people as a collective. To have a truly open democratic system, anonymity plays a huge roll. It grants us free speech, allows us to question without negative repercussions, and gives us a means by which we have choice.
 
-### Let Me Explain Further
+**Let Me Explain Further**
 
 Based on the arguments I have had with people in the past, I don’t think simply explaining what security, privacy, and anonymity are will be enough for many of the readers taking a look at The Crypto Paper. I think part of this comes from the mindset people have while using the Internet, but I also think part of it comes down to people just not knowing how serious the issue of privacy and security is. Let me give an extended explanation.
 
